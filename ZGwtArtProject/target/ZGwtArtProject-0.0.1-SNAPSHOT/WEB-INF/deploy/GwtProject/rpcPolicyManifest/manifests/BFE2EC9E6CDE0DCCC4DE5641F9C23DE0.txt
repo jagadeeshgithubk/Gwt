@@ -1,0 +1,2 @@
+serviceClass: ZGwtProject.ZGwtArtProject.client.GreetingService
+path: DA555EDED44B9B07823212A529F16F62.gwt.rpc
